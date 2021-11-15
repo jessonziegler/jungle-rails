@@ -5,4 +5,3 @@ class Admin::DashboardController < ApplicationController
     @products = Product.count
     @category = Category.count  end
 end
-end
