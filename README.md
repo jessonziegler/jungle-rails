@@ -4,7 +4,7 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 
 ## App Screenshots/gifs
 
-!["Walkthrough gif"](!(https://github.com/jessonziegler/jungle-rails/blob/master/public/Junglebook.gif)
+!["Walkthrough gif"] (https://github.com/jessonziegler/jungle-rails/blob/master/public/Junglebook.gif)
 )
 
 
