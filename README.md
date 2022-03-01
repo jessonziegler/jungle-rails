@@ -2,6 +2,12 @@
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
+## App Screenshots/gifs
+
+!["Add Appointment"](![Junglebook](https://user-images.githubusercontent.com/86847873/156161690-a9468654-747d-47e5-8bd7-f3e469831fcd.gif)
+)
+
+
 ## Additional Steps for Apple M1 Machines
 
 1. Make sure that you are runnning Ruby 2.6.6 (`ruby -v`)
